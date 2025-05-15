@@ -7,6 +7,22 @@
 <h1 align="center">Hi there 👋, I'm Valeria Rodríguez</h1>
 <h3 align="center">Full Stack Developer in Training | Industrial Engineer focused on Process Optimization</h3>
 
+
+
+<p>💻 I'm an Industrial Engineer currently studying Software Development, with a strong interest in full stack web technologies. I enjoy building clean, 
+  responsive, and functional web applications while applying my background in process optimization and data analysis. </p>
+
+<p>I’m constantly learning and growing in areas like backend development, databases, and modern frontend frameworks. I’m especially interested in creating practical solutions that solve real problems and improve efficiency.</p>
+<p>I'm looking forward to joining a collaborative development team where I can contribute, learn from others, and build meaningful software.
+</p>
+<p>Native Spanish speaker, currently improving my English to connect with a broader global tech community.</p>
+
+🌱 
+
+🤝 
+🗣️ 
+
+
 ---
 
 ### 📬 Connect with me
@@ -47,7 +63,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -61,4 +77,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerz19&" alt="GitHub Streak" />
 </p>
-
+-->
