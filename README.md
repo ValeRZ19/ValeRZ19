@@ -4,7 +4,7 @@
 **ValeRZ19/ValeRZ19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there 👋, I'm Valeria Rodríguez</h1>
+<h1 align="center">Hi, I'm Valeria Rodríguez</h1>
 <h3 align="center">Full Stack Developer in Training | Industrial Engineer focused on Process Optimization</h3>
 
 
@@ -18,14 +18,14 @@
 
 
 
----
+
 
 ### 📬 Connect with me
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodr%C3%ADguez-903061347/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valerz1909@gmail.com) 
  <!--[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](h)--> 
  
----
+
 
 ### 🛠️ Languages & Tools
 
