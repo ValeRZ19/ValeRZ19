@@ -11,16 +11,11 @@
 
 <p>💻 I'm an Industrial Engineer currently studying Software Development, with a strong interest in full stack web technologies. I enjoy building clean, 
   responsive, and functional web applications while applying my background in process optimization and data analysis. </p>
-
-<p>I’m constantly learning and growing in areas like backend development, databases, and modern frontend frameworks. I’m especially interested in creating practical solutions that solve real problems and improve efficiency.</p>
-<p>I'm looking forward to joining a collaborative development team where I can contribute, learn from others, and build meaningful software.
+<p>🌱I’m constantly learning and growing in areas like backend development, databases, and modern frontend frameworks. I’m especially interested in creating practical solutions that solve real problems and improve efficiency.</p>
+<p>I'm looking forward to joining a collaborative development team where I can contribute, learn from others, and help build and maintain meaningful software.
 </p>
-<p>Native Spanish speaker, currently improving my English to connect with a broader global tech community.</p>
+<p>🗣️ Native Spanish speaker, currently improving my English to connect with a broader global tech community.</p>
 
-🌱 
-
-🤝 
-🗣️ 
 
 
 ---
